@@ -53,9 +53,6 @@ class WriteJsonFile:
         """Main function which start run code"""
         self.save_sorted_dict(self.dict_sort_by_type(self.make_dict()))
 
-# class SomeTest(unittest.TestCase):
-#     def transfer_ti_dict(self):
-
 
 some_file = WriteJsonFile()
 
